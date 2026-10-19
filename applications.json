@@ -1,0 +1,22 @@
+[
+  {
+    "id": "8d434550-5fbd-4a6b-a1c9-11bed6b14812",
+    "applicationNumber": "DSC-96158563",
+    "name": "Anand Kumar",
+    "mobile": "7261006177",
+    "service": "राशन कार्ड",
+    "details": "add member",
+    "status": "Completed",
+    "createdAt": "2026-10-19T07:49:18.563Z"
+  },
+  {
+    "id": "5f201d54-cac0-4320-b25c-97ff08e10884",
+    "applicationNumber": "DSC-97580789",
+    "name": "ghuran sharma",
+    "mobile": "9565885588",
+    "service": "CSC",
+    "details": "mera approval kar dijiye",
+    "status": "Processing",
+    "createdAt": "2026-10-19T08:13:00.789Z"
+  }
+]
